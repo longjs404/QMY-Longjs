@@ -1,0 +1,2 @@
+# QMY-Longjs
+for love
